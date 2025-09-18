@@ -1,0 +1,18 @@
+{
+  "name": "@wxn0brp/valthera-cloud",
+  "version": "0.0.1",
+  "main": "dist/index.js",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wxn0brP/ValtheraDB-cloud.git"
+  },
+  "homepage": "https://github.com/wxn0brP/ValtheraDB-cloud",
+  "author": "wxn0brP",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "*",
+    "tsc-alias": "*",
+    "typescript": "*"
+  }
+}
